@@ -10,4 +10,6 @@ The repo contains my work submissions for this specialization.
 
 ### Course 1: Neural Networks and Deep Learning
 
-* Week 2 - 1 - [Python Basics with Numpy](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/Python_Basics_With_Numpy_v3a.ipynb)
+* [Week 2 - Python Basics with Numpy](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/Python_Basics_With_Numpy_v3a.ipynb)
+* [Week 2 - Logistic Regression with a Neural Network mindset](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
+* [Week 3 - Planar data classification with one hidden layer](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb)
