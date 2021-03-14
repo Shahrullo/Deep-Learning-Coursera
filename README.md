@@ -7,3 +7,7 @@ Programming assignments from Coursera [Deep Learning Specialization](https://www
 The repo contains my work submissions for this specialization. 
 
 ## Programming Assingments
+
+### Course 1: Neural Networks and Deep Learning
+
+* Week 2 - 1 - [Python Basics with Numpy](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/1%20Neural%20Networks%20and%20Deep%20Learning/Python_Basics_With_Numpy_v3a.ipynb)
