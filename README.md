@@ -18,3 +18,4 @@ The repo contains my work submissions for this specialization.
 
 ### Course 2: Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimization
 * [Week 1 - Initialization](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Initialization)
+* [Week 1 - Regularization](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Regularization)
