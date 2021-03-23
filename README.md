@@ -24,4 +24,4 @@ The repo contains my work submissions for this specialization.
 * [Week 3 - TensorFlow Tutorial](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/2%20Improving%20Deep%20Neural%20Networks%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%203)
 
 ### Course 3: Structuring Machine Learning Projects
-
+ `There is no any Project Assignment in this course but only case study quizzes`
