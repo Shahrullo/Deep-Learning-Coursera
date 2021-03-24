@@ -28,3 +28,4 @@ The repo contains my work submissions for this specialization.
  
 ### Course 4: Convolutional Neural Networks
 * [Week 1 - Convolutional Model Step by Step](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/4%20Convolutional%20Neural%20Networks/week%201/Convolution_model_Step_by_Step_v2a.ipynb)
+* [Week 2 - Convolutional Model Application](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/4%20Convolutional%20Neural%20Networks/week%201/Convolution_model_Application_v1a.ipynb)
