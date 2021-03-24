@@ -25,3 +25,6 @@ The repo contains my work submissions for this specialization.
 
 ### Course 3: Structuring Machine Learning Projects
  `There is no any Project Assignment in this course but only case study quizzes`
+ 
+### Course 4: Convolutional Neural Networks
+* [Week 1 - Convolutional Model Step by Step](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/4%20Convolutional%20Neural%20Networks/week%201/Convolution_model_Step_by_Step_v2a.ipynb)
