@@ -32,3 +32,4 @@ The repo contains my work submissions for this specialization.
 * [Week 2 - Keras Tutorial](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/4%20Convolutional%20Neural%20Networks/week%202/Keras_Tutorial_v2a.ipynb)
 * [Week 2 - Residual Networks](https://github.com/Shahrullo/Deep-Learning-Coursera/blob/main/4%20Convolutional%20Neural%20Networks/week%202/Residual_Networks_v2a.ipynb)
 * [Week 3 - Autonomous driving application - Car detection](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/4%20Convolutional%20Neural%20Networks/week%203)
+* [Week 4 - Face Recognition](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/4%20Convolutional%20Neural%20Networks/week%204/Face%20Recognition)
