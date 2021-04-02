@@ -34,3 +34,5 @@ The repo contains my work submissions for this specialization.
 * [Week 3 - Autonomous driving application - Car detection](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/4%20Convolutional%20Neural%20Networks/week%203)
 * [Week 4 - Face Recognition](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/4%20Convolutional%20Neural%20Networks/week%204/Face%20Recognition)
 * [Week 4 - Neural Style Transfer](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/4%20Convolutional%20Neural%20Networks/week%204/Neural%20Style%20Transfer)
+
+### Course 5: Sequence Models
