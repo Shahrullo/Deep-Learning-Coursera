@@ -36,3 +36,4 @@ The repo contains my work submissions for this specialization.
 * [Week 4 - Neural Style Transfer](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/4%20Convolutional%20Neural%20Networks/week%204/Neural%20Style%20Transfer)
 
 ### Course 5: Sequence Models
+* [Week 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step)
