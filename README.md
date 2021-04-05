@@ -39,3 +39,5 @@ The repo contains my work submissions for this specialization.
 * [Week 1 - Building a Recurrent Neural Network - Step by Step](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%201/Building%20a%20Recurrent%20Neural%20Network%20-%20Step%20by%20Step)
 * [Week 1 - Dinosaurus Island - Character level language model](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%201/Dinosaur%20Island%20-%20Character-level%20Language)
 * [Week 1 - Jazz improvisation with LSTM](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%201/Jazz%20improvisation%20with%20LSTM)
+* [Week 2 - Emojify](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%202/Emojify)
+* [Week 2 - Word Vector Representation](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%202/Word%20Vector%20Representation)
