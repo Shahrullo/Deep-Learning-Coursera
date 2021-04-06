@@ -41,3 +41,4 @@ The repo contains my work submissions for this specialization.
 * [Week 1 - Jazz improvisation with LSTM](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%201/Jazz%20improvisation%20with%20LSTM)
 * [Week 2 - Emojify](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%202/Emojify)
 * [Week 2 - Word Vector Representation](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%202/Word%20Vector%20Representation)
+* [Week 3 - Machine Translation](https://github.com/Shahrullo/Deep-Learning-Coursera/tree/main/5%20Sequence%20Models/week%203/Machine%20Translation)
